@@ -1,2 +1,3 @@
 # world-explorer-academy
-hi
+Developed an interactive educational game for kids
+
